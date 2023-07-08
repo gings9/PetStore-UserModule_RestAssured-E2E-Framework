@@ -1,0 +1,15 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "cSpell.words": [
+        "apidata",
+        "colnum",
+        "Gings",
+        "Postuser",
+        "restassured",
+        "rownum",
+        "Userdata",
+        "useremail",
+        "xlfile",
+        "XSSF"
+    ]
+}

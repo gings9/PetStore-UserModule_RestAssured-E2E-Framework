@@ -11,5 +11,6 @@
         "useremail",
         "xlfile",
         "XSSF"
-    ]
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive"
 }

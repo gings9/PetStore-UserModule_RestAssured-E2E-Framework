@@ -1,8 +1,8 @@
-[INFO ] 2023-07-09 10:50:22.933 [main] UserTests2 - ******* Creating user  ********
-[INFO ] 2023-07-09 10:50:25.079 [main] UserTests2 - ******* User is Created  ********
-[INFO ] 2023-07-09 10:50:25.086 [main] UserTests2 - ******* Retrieving the user  ********
-[INFO ] 2023-07-09 10:50:26.187 [main] UserTests2 - ******* User information is displayed ********
-[INFO ] 2023-07-09 10:50:26.188 [main] UserTests2 - ******* Updating the user  ********
-[INFO ] 2023-07-09 10:50:27.237 [main] UserTests2 - ******* User is updated  ********
-[INFO ] 2023-07-09 10:50:28.291 [main] UserTests2 - ******* Deleting user  ********
-[INFO ] 2023-07-09 10:50:29.345 [main] UserTests2 - ******* User Deleted ********
+[INFO ] 2023-07-09 11:12:16.897 [main] UserTests2 - ******* Creating user  ********
+[INFO ] 2023-07-09 11:12:19.095 [main] UserTests2 - ******* User is Created  ********
+[INFO ] 2023-07-09 11:12:19.099 [main] UserTests2 - ******* Retrieving the user  ********
+[INFO ] 2023-07-09 11:12:20.173 [main] UserTests2 - ******* User information is displayed ********
+[INFO ] 2023-07-09 11:12:20.174 [main] UserTests2 - ******* Updating the user  ********
+[INFO ] 2023-07-09 11:12:21.259 [main] UserTests2 - ******* User is updated  ********
+[INFO ] 2023-07-09 11:12:22.614 [main] UserTests2 - ******* Deleting user  ********
+[INFO ] 2023-07-09 11:12:23.711 [main] UserTests2 - ******* User Deleted ********

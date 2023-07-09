@@ -1,0 +1,8 @@
+[INFO ] 2023-07-09 11:05:40.481 [main] UserTests2 - ******* Creating user  ********
+[INFO ] 2023-07-09 11:05:42.726 [main] UserTests2 - ******* User is Created  ********
+[INFO ] 2023-07-09 11:05:42.737 [main] UserTests2 - ******* Retrieving the user  ********
+[INFO ] 2023-07-09 11:05:43.849 [main] UserTests2 - ******* User information is displayed ********
+[INFO ] 2023-07-09 11:05:43.850 [main] UserTests2 - ******* Updating the user  ********
+[INFO ] 2023-07-09 11:05:44.955 [main] UserTests2 - ******* User is updated  ********
+[INFO ] 2023-07-09 11:05:46.040 [main] UserTests2 - ******* Deleting user  ********
+[INFO ] 2023-07-09 11:05:47.083 [main] UserTests2 - ******* User Deleted ********
